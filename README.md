@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
    uvicorn main:app --reload
    ```
 2. **Access the API documentation:**
-   Open your browser and navigate to `http://127.0.0.1:8000/docs` to view the Swagger UI.
+   Open your browser and navigate to `http://127.0.0.1:8000` to view the Swagger UI.
 
 ## Endpoints
 
