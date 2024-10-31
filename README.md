@@ -143,9 +143,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Notes:
-
-- Make sure to replace `https://github.com/yourusername/Movies-APIs-Project.git` with the actual URL of your GitHub repository.
-- Update any other sections as needed based on your project specifics or any additional features you may have added.
-- Ensure that the LICENSE section is accurate; if you haven't chosen a license yet, you can remove that section or specify the license you intend to use.
